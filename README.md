@@ -19,9 +19,13 @@ Official source code of the mKSM algorithm proposed in the article "[Automated m
 8. Select "Run"
 9. A new file will be saved in the same folder with the analyzed image, and a text file will also be saved with the measurements.
 
-You can also run this macro in batch over all the images in a folder.
+You can also run this macro in batch over all the images in a folder: In the _Process_ menu, select _Batch_ > _Macro_ .
 
 ## FAQ
+
+### What is the purpose of mKSM?
+
+Measuring the foveal avascular zone (FAZ) area in the eye.
 
 ### What does mKSM stand for?
 
