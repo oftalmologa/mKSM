@@ -1,7 +1,7 @@
 printLabel = true;
 saveImage = true;
 saveText = true;
-saveSingleFile = false;
+saveSingleFile = true;
 measureFile = "results.txt"
 RANDOM_SEED = 314;
 
